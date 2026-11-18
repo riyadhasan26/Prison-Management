@@ -4,23 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60f827fd-05d7-4c58-9c95-e4d40944f70f" name="Changes" comment="Merge branch 'main' of https://github.com/riyadhasan26/Prison-Management into Riyad&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <list default="true" id="60f827fd-05d7-4c58-9c95-e4d40944f70f" name="Changes" comment="Test commit default intellij project">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo5/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo5/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo5/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo5/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo5/HelloApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo5/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo5/Launcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo5/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="FxmlFile" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="riyadsex" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,18 +47,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/riyadhasan26/Prison-Management&quot;,
-    &quot;accountId&quot;: &quot;3a4cf01e-d0b5-419e-bb3f-6b042478f3c3&quot;
-  },
-  &quot;recentNewPullRequestHead&quot;: {
-    &quot;server&quot;: {
-      &quot;useHttp&quot;: false,
-      &quot;host&quot;: &quot;github.com&quot;,
-      &quot;port&quot;: null,
-      &quot;suffix&quot;: null
-    },
-    &quot;owner&quot;: &quot;riyadhasan26&quot;,
-    &quot;repository&quot;: &quot;Prison-Management&quot;
+    &quot;url&quot;: &quot;https://github.com/riyadhasan26/Prison-Management.git&quot;,
+    &quot;accountId&quot;: &quot;feee381a-aaba-477b-ad92-e1d9e5eccb88&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -61,11 +65,10 @@
     "Application.HelloApplication.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "#4 on Riyad",
+    "git-widget-placeholder": "Shahriyar-Islam,2420825",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/IdeaProjects/Prison-Management",
@@ -90,6 +93,14 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="60f827fd-05d7-4c58-9c95-e4d40944f70f" name="Changes" comment="" />
@@ -98,60 +109,13 @@
       <option name="presentableId" value="Default" />
       <updated>1790781024259</updated>
     </task>
-    <task id="LOCAL-00001" summary="trying">
-      <option name="closed" value="true" />
-      <created>1790865425157</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1790865425157</updated>
-    </task>
-    <task id="LOCAL-00002" summary="push RIyad">
-      <option name="closed" value="true" />
-      <created>1790865756902</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1790865756902</updated>
-    </task>
-    <task id="LOCAL-00003" summary="i added the readme.md file">
-      <option name="closed" value="true" />
-      <created>1790865911945</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1790865911945</updated>
-    </task>
-    <task id="LOCAL-00004" summary="i added the readme.md file">
-      <option name="closed" value="true" />
-      <created>1795011418737</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1795011418737</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test commit default intellij project" />
-    <MESSAGE value="trying" />
-    <MESSAGE value="push RIyad" />
-    <MESSAGE value="i added the readme.md file" />
-    <option name="LAST_COMMIT_MESSAGE" value="i added the readme.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit default intellij project" />
   </component>
 </project>
